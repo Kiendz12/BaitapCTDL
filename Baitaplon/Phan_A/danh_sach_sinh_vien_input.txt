@@ -1,0 +1,22 @@
+5
+Nguyen Anh Tuan
+CTK42
+MSSV001
+8.5
+Le Thi Lan
+CTK42
+MSSV002
+7.0
+Pham Minh Quan
+CTK41
+MSSV003
+6.2
+Nguyen Hoang Nam
+CTK43
+MSSV004
+9.0
+Trinh Minh Tam
+CTK42
+MSSV005
+5.5
+
